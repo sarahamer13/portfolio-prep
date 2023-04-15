@@ -12,11 +12,11 @@ I want to be a Software Engineer/ Developer. I want to make a difference in the 
 
 ### Your professional pitch: You’ve done a recording, so just write down here how it goes.
 
-My name is Sarah and I have a background in the healthcare field and I served in the U.S.Army as a linguist. I have a passion for building things. While I enjoyed my previous job as a reimbursement counselor in the pharmaceutical industry, I wanted something more creative and fulfilling, therefore; I’m learning about software development.
+My name is Sarah and I have a background in the healthcare field and I served in the U.S.Army as a linguist. I have a passion for building things. While I enjoyed my previous job as a reimbursement counselor in the pharmaceutical industry, I found my passion in building things, and that's why I'm now learning software development.
 
-The ability to build an app or software is phenomenal, and I love the versatility of these skills. I can create websites for small businesses like bakeries or build an educational game for kids or build a software for a company.
-Researching to find the right answer was a big part of my previous two jobs, and I intend to apply the same method.I'm excited to use my skills to build amazing things.
+The versatility and potential of software development are truly phenomenal, and I am thrilled to be able to use my skills to create websites for small businesses, educational games for children, and software for companies. One of my strongest skills is researching to find the best solution to a problem, which was a big part of my previous jobs. I plan to apply that same method to my software development projects.
 
+I am excited to bring my skills to the table and build amazing things.
 
 ### What excites you the most about tech? 
 
